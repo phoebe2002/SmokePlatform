@@ -1,0 +1,15 @@
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\bin\Debug\net6.0\SmokePlatform.exe
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\bin\Debug\net6.0\SmokePlatform.deps.json
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\bin\Debug\net6.0\SmokePlatform.runtimeconfig.json
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\bin\Debug\net6.0\SmokePlatform.dll
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\bin\Debug\net6.0\SmokePlatform.pdb
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.csproj.AssemblyReference.cache
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.AssemblyInfoInputs.cache
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.AssemblyInfo.cs
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.csproj.CoreCompileInputs.cache
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.dll
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\refint\SmokePlatform.dll
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.pdb
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\SmokePlatform.genruntimeconfig.cache
+C:\Users\tsits\source\repos\SmokePlatform\SmokePlatform\obj\Debug\net6.0\ref\SmokePlatform.dll
